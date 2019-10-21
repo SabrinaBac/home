@@ -1,0 +1,70 @@
+body
+{
+	background-color:BlanchedAlmond;
+	color:white;
+	margin:10%;
+}/*end of the body*/
+h1
+{
+	color:Crimson;
+	font-family: Verdana, fantasy;
+	font-style: oblique;
+	font-weight: bolder; 
+	font-size: 36pt;
+	background-color:BlanchedAlmond;
+	text-align: center;
+}/*end of head*/
+h2
+{
+	color:rgb(224,0,0);
+	font-family: "Arial Narow", cursive;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 24pt;
+	text-align: center;
+}/*end of head*/
+img
+{
+	padding: 30px 30px 30px 30px;
+	border: violet;
+	background-color:BlanchedAlmond;
+}/*end of img*/
+p{
+	color:Tomato;
+	font-family: arial, sans;
+	font-size: 20pt;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 24pt;
+	text-align: center;
+	background-color: BlanchedAlmond;
+}/*p*/
+ul{
+	color:rgb(136,136,136) ;
+	font-family: Verdana, fantasy;
+	font-style: oblique;
+	font-weight: bolder; 
+	font-size: 16pt;
+	background-color:BlanchedAlmond;
+} /*end of list*/
+ol{
+	color:rgb(136,136,136);
+	font-family: arial, sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16pt;
+	background-color:BlanchedAlmond;
+} /*end of list*/
+h3{
+	color:rgb(224,0,0);
+	font-family: Georgia,sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}	/* end of list*/
+h4{
+	color: FireBrick;
+	font-family: Georgia,sans;
+	font-weight: bold;
+}	/*end of head*/
